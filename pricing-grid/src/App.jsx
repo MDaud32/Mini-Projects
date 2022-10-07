@@ -4,7 +4,7 @@ function App() {
     <div className="flex items-center justify-center min-h-screen gap-28 bg-slate-800 text-white">
       <div className="flex flex-col my-6 space-y-6 md:space-y-0 md:space-x-6 md:flex-row md:my-0">
         {/* first card */}
-        <div className="border-8 p-8 rounded-xl bg-slate-700 border-slate-500 hover:border-violet-700">
+        <div className="border-8 p-8 mx-3 rounded-xl bg-slate-700 border-slate-500 hover:border-violet-700">
           <div>
             <h3 className="font-semibold text-2xl text-center uppercase">
               Basic
